@@ -1,0 +1,13 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "ITI2lty2e75IR1ow",
+        "JWT_KEY": "secret_this_should_be_longer",
+        "SENDGRID_API_KEY": "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",
+        "REQUESTFORMAT": "JSON",
+        "DHRUFUSION_URL": "https://www.codesunlocker.com/",
+        "USERNAME": "jackbloom",
+        "API_ACCESS_KEY": "1N9-CC5-HQ8-VIE-KVT-MGP-2Y-P8M",
+        "API_VERSION": "5.2"
+    }
+  }
+  
