@@ -202,6 +202,8 @@ exports.mepServices = async(req, res, next) => {
 
 exports.imeiServiceDetails = async(req, res, next) => {
     try {
+        //API Test
+        //#255
         // $para['ID'] = "23"; // got from 'imeiservicelist' [SERVICEID]
         const response = await req.dhruFusion.action('getimeiservicedetails', req.fields);
         const json = await response.json();
